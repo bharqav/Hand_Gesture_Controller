@@ -94,11 +94,11 @@ Maps recognized gestures to operating system events using PyAutoGUI and Pynput, 
 
 ## Requirements
 
-Python version three point eight or newer
-OpenCV
-MediaPipe
-PyAutoGUI
-Pynput
+Python version three point eight or newer<br>
+OpenCV<br>
+MediaPipe<br>
+PyAutoGUI<br>
+Pynput<br>
 NumPy
 
 ---
@@ -115,9 +115,9 @@ A webcam window will open and gesture recognition will begin automatically.
 
 ## Future Improvements
 
-Calibration tools for personalized gesture thresholds
-Support for multiple monitor environments
-Expanded gesture vocabulary for additional system controls
-Improved handling of left hand and mirrored gestures
+Calibration tools for personalized gesture thresholds<br>
+Support for multiple monitor environments<br>
+Expanded gesture vocabulary for additional system controls<br>
+Improved handling of left hand and mirrored gestures<br>
 Optional graphical configuration interface
 
